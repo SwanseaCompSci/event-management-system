@@ -56,6 +56,7 @@ The aim is to develop a web application to manage Gregynog events.
 1. Single sign-on (SSO) with Azure Active Directory
    1. This will allow students and staff to login with University accounts
 1. Role-Based Access Control (RBAC)
+
    | Role               | Description         | Notes |
    |--------------------|---------------------|-------|
    | Organiser          | Event organisers    | |
