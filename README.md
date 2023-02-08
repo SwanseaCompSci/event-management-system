@@ -1,2 +1,3 @@
-# gregynog-management-system
-A web application for managing Gregynog events at Swansea University Computer Science department.
+# Event Management System
+
+A web application for managing 3rd Year project presentation events at Swansea University Computer Science department.
